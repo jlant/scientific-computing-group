@@ -63,7 +63,7 @@ welcome.
 Resources
 ---------
 
-Please see [resources]
+Please see [resources](resources/resources.md)
 
 *****
 Contact
@@ -90,5 +90,3 @@ Contact
 [TextWrangler]:http://www.barebones.com/products/textwrangler/download.html
 [Sublime Text]:www.sublimetext.com/
 [5 best text editors]:http://lifehacker.com/five-best-text-editors-1564907215
-
-[resources](resources/resources.md)
