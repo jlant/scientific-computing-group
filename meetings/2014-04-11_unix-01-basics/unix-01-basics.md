@@ -48,6 +48,6 @@ References
 * [Unix]
 
 
-[Software Carpentry - Unix Shell: Creating and Deleting]:http://software-carpentry.org/v4/shell/makedel.html
+[Software Carpentry - Unix Shell: Introduction]:http://software-carpentry.org/v4/shell/intro.html
 [Software Carpentry - Unix Shell: Files and Directories]:http://software-carpentry.org/v4/shell/filedir.html
 [Unix]:http://en.wikipedia.org/wiki/Unix
