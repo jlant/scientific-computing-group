@@ -1,0 +1,29 @@
+# ---------------------------------- WARNING ----------------------------------------
+# The data you have obtained from this automated U.S. Geological Survey database
+# have not received Director's approval and as such are provisional and subject to
+# revision.  The data are released on the condition that neither the USGS nor the
+# United States Government may be held liable for any damages resulting from its use.
+# Additional info: http://waterdata.usgs.gov/nwis/?provisional
+#
+# File-format description:  http://waterdata.usgs.gov/nwis/?tab_delimited_format_info
+# Automated-retrieval info: http://waterdata.usgs.gov/nwis/?automated_retrieval_info
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2014-03-13 15:51:26 EDT       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 03287500 KENTUCKY RIVER AT LOCK 4 AT FRANKFORT, KY
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 03287500
+#    DD parameter   Description
+#    01   00010     Temperature, water, degrees Celsius
+#    02   00060     Discharge, cubic feet per second
+#    07   00065     Gage height, feet
+#    22   00045     Precipitation, total, inches
+#
+# Data-value qualification codes included in this output: 
+#     P  Provisional data subject to revision.  
+#     h  Value exceeds "high" threshold.  
+#     ~  Value is a system interpolated value.  
+# 
