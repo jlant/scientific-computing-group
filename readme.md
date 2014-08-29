@@ -46,7 +46,7 @@ Meetings
 5. Work through hands-on examples together.
 6. Discuss topic covered and answer any outstanding questions.
 
-**How to attend:** Contact [Jeremiah Lant](#Contact) to get added to the email list and receive invites to the meetings.  Anyone is 
+**How to attend:** Contact [Jeremiah Lant](#contact) to get added to the email list and receive invites to the meetings.  Anyone is 
 welcome.
 
 **Software Recommendations:**
@@ -91,4 +91,4 @@ Contact
 [Sublime Text]:www.sublimetext.com/
 [5 best text editors]:http://lifehacker.com/five-best-text-editors-1564907215
 
-[resources]:(resources/resources.md)
+[resources](resources/resources.md)
