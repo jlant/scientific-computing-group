@@ -4,7 +4,7 @@ Python - Functions
 Objectives
 ----------
 
-* Write and execute functions with named arguments, unnamed arguments, and no arguments
+* Write and call functions with named arguments, unnamed arguments, and no arguments
 
 *****
 Notes
@@ -29,7 +29,7 @@ Examples
 		
 		return result
 
-	# execute the function
+	# call the function
 	avg = average(numbers = [1, 2, 3])
 	print("The average is: {0:.2f}".format(avg))
 		
