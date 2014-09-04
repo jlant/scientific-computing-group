@@ -23,7 +23,7 @@
 
 
 *****
-**What you learned or wish you learned about the topic?**
+**What you learned and/or would have liked to have learned more about the topic?**
 
 
 *****
