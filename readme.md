@@ -1,14 +1,13 @@
-Scientific Computing Group
-==========================
+[![alt text](resources/images/usgs-logo.png)](http://www.usgs.gov/)
 
-Description
------------
+# Scientific Computing Group
+
+## Description
 
 A group that has an interest in scientific computing, programming, collaborating, and
 learning tools that can help one become more productive and efficient. 
 
-Objectives
-----------
+## Objectives
 
 * Teach, guide, and build a group that has interest in learning basic scientific computing
 skills, learning how to program, and learning tools and techniques to help become more 
@@ -18,8 +17,7 @@ productive, efficient, and computationally sound.
 * Learn and follow the [best practices in scientific computing].
 
 *****
-Topics
-------
+## Topics
 
 * [Unix Shell] - for learning basic commands/language to communicate with a computer; basis for learning how to program. 
 * [Version Control with Git] - for learning how to track, reproduce, and share work efficiently.
@@ -27,13 +25,12 @@ Topics
 * Scientific libraries including: 
     * [numpy] - fundamental package for scientific computing; includes arrays and matrices 
     * [matplotlib] - 2-D plotting library that produces publication quality figures in various formats
-	* [scipy] - package for scientific computing that includes routines for statistics, numerical differentiation, numerical 
-	integration, optimization, etc. 
+    * [scipy] - package for scientific computing that includes routines for statistics, numerical differentiation, numerical 
+    integration, optimization, etc. 
 * And much more ... please see [Recently Covered Topics](#recently-covered-topics) and [Upcoming Topics](#upcoming-topics)
 
 *****
-Meetings
---------
+## Meetings
 
 **Time:**  Each week on Wednesday's and Friday's from 12:00 PM EST - 1:00 PM EST. 
 
@@ -75,8 +72,7 @@ Meetings
 	* [Sublime Text]
 	* Also see [5 best text editors]
 
-Recently Covered Topics
------------------------
+## Recently Covered Topics
 
 Dates | Topic
 ----- | -----
@@ -86,8 +82,7 @@ Dates | Topic
 8/5/2014 | SciPy 2014 Conference Discussion
 8/8/2014 - 9/5/2014 | Mini Project - read and process sample data files, functions, aliasing, debugging, testing
 
-Upcoming Topics
------------------
+## Upcoming Topics
 
 * Python scoping
 * Testing - exceptions, unit testing 
@@ -98,14 +93,12 @@ Upcoming Topics
 * Object-oriented programming
 
 *****
-Resources
----------
+## Resources
 
 Please see [resources](resources/resources.md)
 
 *****
-Contact
--------
+## Contact
 
 	Jeremiah Lant
 	Hydrologist
