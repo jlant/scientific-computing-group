@@ -48,7 +48,7 @@ Meetings
 
 **How to attend:** Contact [Jeremiah Lant](#contact) to get added to the email list and receive invites to the meetings.  Anyone is welcome.
 
-**Recordings:** Each meeting is recorded and made available at a time of your convenience at the [USGS FTP site]. 
+**Recordings:** Each meeting is recorded and made available at a time of your convenience at the [USGS FTP site](ftp://ftpext.usgs.gov/pub/er/ky/louisville/jglant/scientific-computing-group/recordings/)
 
 **Software Recommendations:**
 
@@ -78,6 +78,7 @@ Upcoming Topics
 * Testing - exceptions, unit testing 
 * [numpy], [matplotlib], [scipy] libraries
 * [Oreilly - Intermediate Python]
+* [GitHub - Guides] 
 * [Software Carpentry - Version 5 material]
 * Object-oriented programming
 
@@ -114,4 +115,4 @@ Contact
 [5 best text editors]:http://lifehacker.com/five-best-text-editors-1564907215
 [Oreilly - Intermediate Python]:http://shop.oreilly.com/product/110000529.do
 [Software Carpentry - Version 5 material]:http://software-carpentry.org/lessons.html
-[USGS FTP site]:ftp://ftpext.usgs.gov/pub/er/ky/louisville/jglant/scientific-computing-group/recordings/
+[GitHub - Guides]:https://guides.github.com/
