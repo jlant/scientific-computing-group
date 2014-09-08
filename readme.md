@@ -57,9 +57,9 @@ Meetings
 
     data/                   --->            data files used in meetings
     meetings/               --->            directories for each meeting  
-        yyyy-mm-dd_topic    --->            meeting summaries (yyyy-mm-dd_topic.md) and code directory (if applicable)
-    presentations           --->            meeting presentations (yyyy-mm-dd_topic.pdf)
-    resources               
+        yyyy-mm-dd_topic/   --->            meeting summaries (yyyy-mm-dd_topic.md) and code directory (if applicable)
+    presentations/          --->            meeting presentations (yyyy-mm-dd_topic.pdf)
+    resources/               
         git/                --->            useful Git related documents
         python/             --->            useful Python related documents, code snippets, scripts
         resources.md        --->            useful resources for Git, Python, Scientific Computing
