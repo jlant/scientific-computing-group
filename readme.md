@@ -26,7 +26,7 @@ Topics
 * [Programming with Python] - for learning how to program and to write programs in a modular and testable way.
 * Scientific libraries including: 
     * [numpy] - fundamental package for scientific computing; includes arrays and matrices 
-	* [matplotlib] - 2-D plotting library that produces publication quality figures in various formats
+    * [matplotlib] - 2-D plotting library that produces publication quality figures in various formats
 	* [scipy] - package for scientific computing that includes routines for statistics, numerical differentiation, numerical 
 	integration, optimization, etc. 
 * And much more ... please see [Recently Covered Topics](#recently-covered-topics) and [Upcoming Topics](#upcoming-topics)
@@ -48,7 +48,22 @@ Meetings
 
 **How to attend:** Contact [Jeremiah Lant](#contact) to get added to the email list and receive invites to the meetings.  Anyone is welcome.
 
-**Recordings:** Each meeting is recorded and made available at a time of your convenience at the [USGS FTP site](ftp://ftpext.usgs.gov/pub/er/ky/louisville/jglant/scientific-computing-group/recordings/)
+**Recordings:** Each meeting (*live* and *unrehearsed*) is recorded and made available at a time of your convenience at the USGS FTP site: 
+
+    ftp://ftpext.usgs.gov/pub/er/ky/louisville/jglant/scientific-computing-group/recordings/
+
+
+**Material:** 
+
+    data/                   --->            data files used in meetings
+    meetings/               --->            directories for each meeting  
+        yyyy-mm-dd_topic    --->            meeting summaries (yyyy-mm-dd_topic.md) and code directory (if applicable)
+    presentations           --->            meeting presentations (yyyy-mm-dd_topic.pdf)
+    resources               
+        git/                --->            useful Git related documents
+        python/             --->            useful Python related documents, code snippets, scripts
+        resources.md        --->            useful resources for Git, Python, Scientific Computing
+     
 
 **Software Recommendations:**
 
