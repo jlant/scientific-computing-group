@@ -25,11 +25,11 @@ Topics
 * [Version Control with Git] - for learning how to track, reproduce, and share work efficiently.
 * [Programming with Python] - for learning how to program and to write programs in a modular and testable way.
 * Scientific libraries including: 
-	* [numpy] - fundamental package for scientific computing; includes arrays and matrices 
+    * [numpy] - fundamental package for scientific computing; includes arrays and matrices 
 	* [matplotlib] - 2-D plotting library that produces publication quality figures in various formats
 	* [scipy] - package for scientific computing that includes routines for statistics, numerical differentiation, numerical 
 	integration, optimization, etc. 
-* And much more ...
+* And much more ... please see [Recently Covered Topics](#recently-covered-topics) and [Upcoming Topics](#upcoming-topics)
 
 *****
 Meetings
@@ -46,8 +46,9 @@ Meetings
 5. Work through hands-on examples together.
 6. Discuss topic covered and answer any outstanding questions.
 
-**How to attend:** Contact [Jeremiah Lant](#contact) to get added to the email list and receive invites to the meetings.  Anyone is 
-welcome.
+**How to attend:** Contact [Jeremiah Lant](#contact) to get added to the email list and receive invites to the meetings.  Anyone is welcome.
+
+**Recordings:** Each meeting is recorded and made available at a time of your convenience at the [USGS FTP site]. 
 
 **Software Recommendations:**
 
@@ -58,6 +59,27 @@ welcome.
 	* [TextWrangler]
 	* [Sublime Text]
 	* Also see [5 best text editors]
+
+Recently Covered Topics
+-----------------------
+
+Dates | Topic
+----- | -----
+4/11/2014 - 5/7/2014 | Introduction to Unix
+5/9/2014 - 5/21/2014 | Introduction to Version Control with Git
+5/28/2014 - 7/2/2014 | Introduction to Python - basics, print, control structures, lists, dictionary, strings, file i/o, sys module
+8/5/2014 | SciPy 2014 Conference Discussion
+8/8/2014 - 9/5/2014 | Mini Project - read and process sample data files, functions, aliasing, debugging, testing
+
+Upcoming Topics
+-----------------
+
+* Python scoping
+* Testing - exceptions, unit testing 
+* [numpy], [matplotlib], [scipy] libraries
+* [Oreilly - Intermediate Python]
+* [Software Carpentry - Version 5 material]
+* Object-oriented programming
 
 *****
 Resources
@@ -90,3 +112,6 @@ Contact
 [TextWrangler]:http://www.barebones.com/products/textwrangler/download.html
 [Sublime Text]:www.sublimetext.com/
 [5 best text editors]:http://lifehacker.com/five-best-text-editors-1564907215
+[Oreilly - Intermediate Python]:http://shop.oreilly.com/product/110000529.do
+[Software Carpentry - Version 5 material]:http://software-carpentry.org/lessons.html
+[USGS FTP site]:ftp://ftpext.usgs.gov/pub/er/ky/louisville/jglant/scientific-computing-group/recordings/
