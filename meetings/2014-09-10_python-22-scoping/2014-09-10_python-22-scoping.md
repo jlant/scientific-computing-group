@@ -10,6 +10,11 @@ Topic
 
 *****
 **Notes:**
+Python scoping hierarchy rule (LEGB):
+- Local
+- Enclosing
+- Global
+- Builtin
 
 
 *****
@@ -18,6 +23,7 @@ Topic
 
 *****
 **Questions / Comments**
+Ask about indention errors later and strange behavior when writing functions in notepad++.
 
 
 *****
