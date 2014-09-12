@@ -1,8 +1,7 @@
-Topic
-=====
+# Topic
 
 *****
-**Objectives:**
+## Objectives
 
 1.
 
@@ -12,20 +11,20 @@ Topic
 
 
 *****
-**Notes:**
+## Notes
 
 
 *****
-**Examples:**
+## Examples
 
 
 *****
-**Questions / Comments**
+## Questions / Comments
 
 
 *****
-**What you learned and/or would have liked to have learned more about the topic?**
+## What you learned and/or would have liked to have learned more about the topic?
 
 
 *****
-**References:**
+## References
