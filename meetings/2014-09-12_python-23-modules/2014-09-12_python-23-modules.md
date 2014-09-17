@@ -20,7 +20,7 @@
 * access the functionality of a module using **dot** notation
 
 ```python
-import myawesomemodule.py
+import myawesomemodule
 
 myawesomemodule.compute_something_cool()
 ```
@@ -36,7 +36,7 @@ arguments = sys.argv()
     - `__name__`
     - `__file__`
     - `__doc__`
-* `__name__` will be the string **"__main__"** if module is run like a script
+* `__name__` will be the string **__main__** if module is run like a script
 * `__name__` will be the string **name of the module** if module is imported into another module or script
 * a module can contain runnable code and can be run like a script using the following check:
 
