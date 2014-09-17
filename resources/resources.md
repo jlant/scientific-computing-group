@@ -1,16 +1,13 @@
-Resources
-=========
+# Resources
 
-Git
----
+## Git
 
 * [Pro Git] - book by Scott Chacon
 * [Git - Introductory Videos] - introductory videos to git
 * [Git - Tutorials] - tutorials by Atlassian
 * [GitHub - Guides] - tutorials by GitHub
 
-Python
-------
+## Python
 
 * [Python.org] - Python's website; everything about Python can be found here - downloads, tutorials, documentation, etc.
 * [Code Academy] - course on learning how to program in Python.
@@ -19,11 +16,14 @@ Python
 * [pyvideo] - videos from Python conferences
 * [Enthought - Python Training] - trainging courses from [Enthought]
 
-Scientific Computing
---------------------
+## Scientific Computing
 
 * [Software Carpentry] - resource on teaching technical skills for scientific computing by Greg Wilson; teaches programming for scientists
 * [Best Practices for Scientific Computing] - paper by Greg Wilson and others on best practices
+
+## Programming Guides
+* [Code and Data for the Social Sciences: A Practitioner's Guide] - guide for managing data and code by Matthew Gentzkow and Jesse M. Shapiro 
+(thanks to [Software Carpentry] for the reference)
 
 
 
@@ -39,6 +39,8 @@ Scientific Computing
 [pyvideo]:http://pyvideo.org/
 [Enthought - Python Training]:https://www.enthought.com/services/training/python-training-on-demand
 [Enthought]:https://www.enthought.com/
+
+[Code and Data for the Social Sciences: A Practitioner's Guide]:http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.xhtml
 
 [Software Carpentry]:http://software-carpentry.org/
 [Best Practices for Scientific Computing]:http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745
