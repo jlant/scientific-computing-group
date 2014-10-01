@@ -1,0 +1,3 @@
+date	discharge (cfs)	stage (ft)	temperature (celsius)	precipitation (inches)
+01/01/2014	10	1	3	0.2
+02/01/2014	20	2	1	0.1
