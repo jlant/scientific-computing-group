@@ -48,7 +48,7 @@ each tuple is an (index, item) pair using `list(enumerate(sequence))`.
 ...         "temperature": [2, 3, 5]
 ... }
 
->>> for key, value in data:
+>>> for key, value in data.iteritems():
 ...     print(key, value)
 ...
 ('discharge', [100, 112, 110])

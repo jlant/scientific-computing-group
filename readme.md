@@ -80,11 +80,10 @@ Dates | Topic
 5/9/2014 - 5/21/2014 | Introduction to Version Control with Git
 5/28/2014 - 7/2/2014 | Introduction to Python - basics, print, control structures, lists, dictionary, strings, file i/o, sys module
 8/5/2014 | SciPy 2014 Conference Discussion
-8/8/2014 - 9/5/2014 | Mini Project - read and process sample data files, functions, aliasing, debugging, testing
+8/8/2014 - current | Mini Project - read and process sample data files, functions, aliasing, debugging, testing
 
 ## Upcoming Topics
 
-* Python scoping
 * Testing - exceptions, unit testing 
 * [numpy], [matplotlib], [scipy] libraries
 * [Oreilly - Intermediate Python]
